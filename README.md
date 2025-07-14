@@ -1,4 +1,4 @@
-# Cryptography
+# Classical Cryptography Concepts
 Basic overview of classical encryption methods and cipher techniques.
 
 ## Symmetric Encryption
